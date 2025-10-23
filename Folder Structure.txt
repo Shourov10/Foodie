@@ -1,0 +1,22 @@
+project-root/
+│
+├─ frontend/             # HTML/CSS/JS
+│   ├─ index.html
+│   ├─ style.css
+│   └─ script.js
+│
+├─ server/               # Node.js + Express backend
+│   ├─ server.js         # Main entry point
+│   ├─ routes/
+│   │    ├─ productRoutes.js
+│   │    ├─ orderRoutes.js
+│   │    └─ userRoutes.js
+│   ├─ models/
+│   │    ├─ Product.js
+│   │    ├─ Order.js
+│   │    └─ User.js
+│   └─ middleware/
+│        └─ authMiddleware.js
+│
+├─ .env                  # For environment variables (DB URI, JWT secret)
+└─ package.json
