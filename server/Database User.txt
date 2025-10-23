@@ -1,0 +1,9 @@
+Username: Shourov
+Pass: #Food4ev1
+NewPass: Shourov123
+
+Connection String:
+mongodb+srv://Shourov:#Food4ev1@foodiesapp.ypnzl4y.mongodb.net/?retryWrites=true&w=majority&appName=FoodiesApp
+
+#is commenting in Node.js
+mongodb+srv://Shourov:%23Food4ev1@foodiesapp.ypnzl4y.mongodb.net/?retryWrites=true&w=majority&appName=FoodiesApp
